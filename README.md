@@ -7,9 +7,9 @@ A proposta deste desafio era testar os conhecimentos do módulo Finalizando o Ba
 
 ### Funcionalidades Implementadas :bookmark_tabs:
 - Criar as tabelas de produtos, pedidos, pedidosProduto e clientes no banco de dados. :heavy_check_mark:
-- Implementar a rotas e a função de cadastrar um cliente. :heavy_check_mark:
-- Implementar a rotas e a função de cadastrar um produto. :heavy_check_mark:
-- Implementar as rotas e as funções de cadastrar e listar uma compra. :heavy_check_mark:
+- A rotas e a função de cadastrar um cliente. :heavy_check_mark:
+- A rota e a função de cadastrar um produto. :heavy_check_mark:
+- As rotas e as funções de cadastrar e listar uma compra. :heavy_check_mark:
 
 ### Como Rodar a Aplicação :desktop_computer:
 
@@ -27,7 +27,7 @@ yarn
 
 - Para executar a aplicação:
 ```
-yarn start
+yarn dev:server
 ```
 
 ### Como testar as requisições 	:technologist:
