@@ -3,7 +3,7 @@
 
 <h1 align="center">:rocket: Desafio 09 do Nível 04 do Bootcamp GoStack 11.0 - Relacionamentos com banco de dados no Node.js :rocket:</h1>
 
-A proposta deste desafio era testar os conhecimentos do módulo Finalizando o Back-End. Onde consistia em implementar back-end criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.
+A proposta deste desafio era testar os conhecimentos do módulo Finalizando o Back-End. Onde consistia em implementar back-end com a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce.
 
 ### Funcionalidades Implementadas :bookmark_tabs:
 - Criar as tabelas de produtos, pedidos, pedidosProduto e clientes no banco de dados. :heavy_check_mark:
